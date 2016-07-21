@@ -1,6 +1,11 @@
 Kentor Authentication Services
 =============
 
+THIS IS A FROZEN IMPLEMENTATION, PLEASE USE KENTOR'S REPO NOT THIS ONE
+=============
+
+
+
 The Kentor Authentication services is a library that adds SAML2P support to ASP.NET and IIS
 web sites, allowing the web site to act as a SAML2 Service Provider (SP).
 
